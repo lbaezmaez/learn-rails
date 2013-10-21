@@ -64,3 +64,30 @@ git push -u origin master
 git push -u origin master
 git push -u origin master
 ls
+git status
+git status
+git log
+git status
+git log
+ls
+cd learn-rails/
+ls
+git mv README.rdoc README,md
+git mv README.rdoc README.md
+git mv README,md README.md
+git status
+git add -A
+git commint -m "update README"
+git commit -m "update README"
+git push origin master
+git log
+bundle install
+git temote show origin
+git remote show origin
+gem list
+git add -A
+git add -A
+cd ..
+git add -A
+git commit -m "add gems"
+git push origin master
