@@ -91,3 +91,15 @@ cd ..
 git add -A
 git commit -m "add gems"
 git push origin master
+rb
+irb
+cd lib
+cd ..
+cd ~
+ls
+cd learn-rails/
+irb
+git reset --hard HEAD
+git log
+git status
+rails server

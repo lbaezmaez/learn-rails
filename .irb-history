@@ -1,0 +1,29 @@
+2+2
+who i am
+whoiam
+n = 10
+if n<10
+puts "small"
+else
+puts "big"
+end
+myboss.name
+myboss = Owner.new
+name = myboss.name
+name = 'Mr.'+ name
+exit
+ex = Example.new('Luis',nil)
+load 'lib/example.rb'
+ex= Example.new('Daniel',nil)
+ex=Example.new('Daniel',nil)
+ex = example.new('Daniel',nil)
+require 'date'
+Date.today
+ex = Example.new('Daniel',nil)
+list = ex.september_birthdays
+list = ex.december_birthdays
+'luis'.reverse.upcase
+'please raise my salary'.reverse.upcase
+fruit = "apple"
+fruit = nil
+fruit.reverse
