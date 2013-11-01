@@ -103,3 +103,8 @@ git reset --hard HEAD
 git log
 git status
 rails server
+ls
+cd learn-rails/
+rails server
+rake routes
+rails server
